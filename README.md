@@ -2,7 +2,8 @@
 - 👀 I am interested in the development and integration of stack-based services: Python, Django, DRF, API, etc.
 - 🌱 I am currently studying at Yandex on the Backend-Developer and am constantly engaged in self-education.
 - 💞️ I want to collaborate on Django website development projects and microservices integration.
-- 📫 How to contact me? By email: saminter22@gmail.com See you later
+- 📫 How to contact me? By email: saminter22@gmail.com 
+See you!
 
 <!---
 saminter22/saminter22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

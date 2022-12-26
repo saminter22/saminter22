@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sergey. Python Developer
 ### Languages & Tools:
-- Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest/
+- Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest.
 - I am currently studying at Yandex on the Backend-Developer and am constantly engaged in self-education.
 - I want to collaborate on Django website development projects and microservices integration.
 ### Contact me:

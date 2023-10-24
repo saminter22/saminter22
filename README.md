@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Sergey. Python Developer
 ### Languages & Tools:
 - Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest.
-- I am currently studying at Yandex on the Backend-Developer and am constantly engaged in self-education.
-- I want to collaborate on Django website development projects and microservices integration.
+- A/B tests, Statistics, Visualisation.
+- I am on the track of transition from marketing to data analytics and development, I am constantly engaged in self-education.
+- Involved in data analysis projects, development and integration of microservices, Django sites and chatbots.
 ### Contact me:
 - saminter@yandex.ru
 - telegram: @Ssamoylov

@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sergey. Python Developer
+## 👋 Hi, I'm Sergey. Python Developer & Data Analyst.
 ### Languages & Tools:
 - Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest.
 - A/B tests, Statistics, Visualisation.

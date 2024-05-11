@@ -1,15 +1,17 @@
-## 👋 Hi, I'm Sergey. Python Developer & Data Analyst.
-### Languages & Tools:
+## 👋 Hi, I'm Sergey. Marketing specialist, Data Analyst & Python Developer.
+## Привет, меня зовут Сергей. Я маркетолог с прокачанными навыками в анализе данных, Data Science и разработке.
+### Стек:
 - Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest.
-- A/B tests, Statistics, Visualisation.
-- I am on the track of transition from marketing to data analytics and development, I am constantly engaged in self-education.
-- Involved in data analysis projects, development and integration of microservices, Django sites and chatbots.
+- SKlearn, Numpy, Pandas
+Работаю с задачами по систематизации данных и их анализу, расчет маркетинговых показателей, прогнозирование продаж, оттока.
+Направления работы: обработка и анализ информации, тестирование гипотез, регрессионный анализ, классификация, маркетинговые метрики, сегментирование, визуализация, консалтинг.
 ### Contact me:
+### Свяжитесь со мной:
 - saminter@yandex.ru
 - telegram: @Ssamoylov
 
 See you!
-
+На связи! 
 <!---
 saminter22/saminter22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

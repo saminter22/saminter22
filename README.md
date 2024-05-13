@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Sergey. Marketing specialist, Data Analyst & Python Developer.
-## Привет, меня зовут Сергей. Я маркетолог с прокачанными навыками в анализе данных, Data Science и разработке.
+## Привет, меня зовут Сергей. Я маркетолог с опытом в анализе данных, Data Science и разработке.
 ### Стек:
 - Python, Django, DRF, API, PosgreSQL, Docker, Linux, NGINX, Gunicorn, Unittest.
 - SKlearn, Numpy, Pandas
